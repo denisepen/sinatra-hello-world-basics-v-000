@@ -6,5 +6,4 @@ class App < Sinatra::Base
     "Hello World"
   end
 end
-
-
+end
